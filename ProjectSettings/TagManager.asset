@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - INFO_PREVIEW_UNIT
+  - INFO_TEXT_NAME
+  - INFO_TEXT_HEALTH
+  - INFO_TEXT_DAMAGE
+  - INFO_TEXT_ABILITY
+  - INFO_TEXT_BOUNTY
+  - INFO_TEXT_COST
+  - BUTTON_START_LEVEL
+  - UPGRADE_PREVIEW_UNIT
+  - UPGRADE_TEXT_NAME
+  - UPGRADE_TEXT_DAMAGE
+  - UPGRADE_TEXT_ABILITY
+  - UPGRADE_TEXT_COST
+  - UPGRADE_TEXT_HEALTH
+  - UPGRADE_BUTTON
+  - GAME_TIMER_TEXT
+  - PLAYER_LIVES_TEXT
+  - PLAYER_GOLD_TEXT
+  - GAME_SHOP
+  - DEFENDER_PARENT
+  - DIED_ON_TEXT
+  - HIGH_SCORE_TEXT
+  - LANE_INDICATOR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
